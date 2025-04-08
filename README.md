@@ -49,4 +49,4 @@ Enter the required information in the form fields.​
 
 Click the "Get Insights" button to view personalized astrological insights.​
 
-Note: Ensure that all files (index.html, style.css, and script.js) are in the same directory for the application to function correctly.
+
