@@ -1,5 +1,5 @@
 ​Astrology Insights is a web application designed to provide users with personalized astrological insights based on their birth details. By inputting their first name, surname, and date of birth, users receive information about their zodiac sign, compliments, recommendations, and future predictions.​
-GitHub
+
 
 Features:
 
